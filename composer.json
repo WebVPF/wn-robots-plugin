@@ -1,0 +1,18 @@
+{
+    "name": "webvpf/wn-robots-plugin",
+    "type": "winter-plugin",
+    "description": "Robots - plugin for Winter CMS. Adds robots.txt for your site.",
+    "homepage": "https://github.com/WebVPF/wn-robots-plugin",
+    "keywords": ["winter cms", "wintercms", "wintercms-plugin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WebVPF",
+            "role": "Author"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/WebVPF/wn-robots-plugin/issues",
+        "source": "https://github.com/WebVPF/wn-robots-plugin"
+    }
+}

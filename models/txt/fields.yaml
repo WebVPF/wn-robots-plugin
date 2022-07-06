@@ -1,0 +1,21 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    txt:
+        label: robots.txt
+        type: codeeditor
+        language: twig
+        span: full
+        size: giant
+        default: "User-agent: *\nAllow: /"
+        comment: webvpf.robots::lang.settings.comment_rules_decs
+        commentHtml: true
+        autocompletion: false
+        displayIndentGuides: false
+        highlightActiveLine: true
+        margin: 15
+        showGutter: false
+        showInvisibles: false
+        wrapWords: true
