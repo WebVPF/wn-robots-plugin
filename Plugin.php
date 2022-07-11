@@ -33,7 +33,7 @@ class Plugin extends PluginBase
         $laravel_version = explode('.', \Illuminate\Foundation\Application::VERSION)[0];
 
         return [
-            'robots_txt' => [
+            'txt' => [
                 'label'       => 'Robots.txt',
                 'description' => 'webvpf.robots::lang.settings.menu_desc',
                 'category'    => SettingsManager::CATEGORY_CMS,

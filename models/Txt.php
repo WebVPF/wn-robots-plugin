@@ -16,7 +16,7 @@ class Txt extends Model
     /**
      * @var string Unique code
      */
-    public $settingsCode = 'webvpf_robots_txt';
+    public $settingsCode = 'webvpf_robots';
 
     /**
      * @var mixed Settings form field definitions
