@@ -3,6 +3,10 @@
 # ===================================
 
 fields:
+    _styles:
+        type: partial
+        path: $/webvpf/robots/models/txt/_styles.php
+        cssClass: hidden
     txt:
         label: robots.txt
         type: codeeditor
