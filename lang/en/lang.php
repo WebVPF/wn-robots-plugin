@@ -8,7 +8,7 @@ return [
     'settings' => [
         'menu_label' => 'Robots',
         'menu_desc' => 'Editing robots.txt',
-        'comment_rules_decs' => "<style>code{padding:1px 3px;background:#f2f1f1;color:#008080}</style>
+        'comment_rules_decs' => "<style>code{padding:1px 3px;background:#f2f1f1;color:#008080}body.dark code{background:var(--drk-hover-bg-color-b);color:var(--drk-color-b);border-radius:3px}</style>
                                 <p>Directives:</p>
                                 <ul>
                                     <li><code>User-agent</code> - The directive specifies the name of the automatic client known as search engine crawler that the rule applies to.</li>
