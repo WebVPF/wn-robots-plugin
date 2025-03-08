@@ -23,7 +23,7 @@ An example of filling robots.txt:
 ```twig
 User-agent: *
 Allow: /
-Sitemap: {{ 'sitemap.xml' | app }}
+Sitemap: {{ 'sitemap.xml'|app }}
 ```
 
 or
